@@ -1,7 +1,3 @@
-Here's a draft for your README file:
-
----
-
 # MIT Physics Questions Answering Project
 
 This project demonstrates the utilization of CrewAI agents, specifically a customized `PDFSearchTool`, with Anthropic's Claude 3.5 Sonnet model as the language model (LLM) and Cohere's `embed-english-v3.0` for embeddings. The goal of the project is to assess the undergraduate proficiency of the model by using Retrieval-Augmented Generation (RAG) on a dataset of MIT physics questions.
